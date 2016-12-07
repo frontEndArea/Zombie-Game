@@ -53,3 +53,27 @@
     right:0;
 }
 
+.bullet {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: red;
+    position: absolute;
+    top:500px;
+}
+.turret {
+    width: 100px;
+    height: 100px;
+    background: pink;
+    position: absolute;
+    top:500px;
+    left:100px;
+}
+.turret2 {
+    width: 100px;
+    height: 100px;
+    background: pink;
+    position: absolute;
+    top:500px;
+    left:500px;
+}
